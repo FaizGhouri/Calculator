@@ -1,0 +1,48 @@
+.cal{
+    background-color:goldenrod;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.main{
+    /* border: gray 3px solid; */
+    width: 240px;
+    margin: 0 auto;
+    border: grey 2px solid;
+}
+
+.result{
+    width: 98.4%;
+    height: 100px;
+    background-color: rgb(219, 218, 218);
+    border: none;
+}
+
+.Btnc{
+    width: 55px;
+    height: 35px;
+    border: none;
+    border-radius: 30px;
+    box-shadow: grey 3px 3px 3px;
+}
+
+.Btn{
+    width: 55px;
+    height: 35px;
+    border: none;
+    border-radius: 30px;
+    box-shadow: grey 3px 3px 3px;
+}
+
+.Cal{
+    background-color: rgb(176, 191, 192);
+}
+
+:hover.Btnc{
+    background-color: grey;
+}
+
+
+:hover.Btn{
+    background-color: grey;
+}
